@@ -13,6 +13,15 @@ enjoy work that moves between hardware, data and software.
 
 ---
 
+### 📰 News
+
+- **Oct 2026**: Our ASE 2026 paper on format robustness of LLM document workflows is presented in Munich.
+- **Sep 2026**: Started my MSc in Mechanical Engineering at NUS.
+- **Aug–Sep 2026**: Built IntentCompass, a conversational shopping agent, at TikTok TechJam 2026.
+- **Jun 2026**: Graduated with a First Class Honours BEng (University of Dundee & Central South University).
+- **Apr 2026**: Started research on AI agents and LLM-based game evaluation with Prof. Yang Liu's team at NTU.
+- **Jan–Mar 2026**: Interned at the Artificial Intelligence Institute of CAICT (China Academy of Information and Communications Technology).
+
 ### 📄 Publication
 
 **Not as Sweet by Another Name: An Empirical Study of Format Robustness in LLM Document Workflows**<br>
@@ -37,6 +46,18 @@ of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift w
 - **Ni/n-ZnO/Ni UV photodetector**: fabricated by RF sputtering, UV lithography and lift-off; traced a 440 nm cutoff drift to process defects.
 - **Intelligent firefighting vehicle**: SolidWorks + ANSYS design, custom 6-module PCB, Mbed control firmware.
 - **Lightweight virtual try-on**: MoveNet + MobileNetV2/FPN with a slimmed CP-VTON+, running GPU-free via OpenVINO.
+- **Momentum in tennis (MCM 2024, Problem C)**: random-forest feature ranking and a two-layer LSTM to predict momentum shifts in Wimbledon matches.
+
+### 💼 Industry experience
+
+- **CAICT, Artificial Intelligence Institute** (Intern, Jan–Mar 2026): research on regional AI data ecosystems (dataset development in Ningbo, data annotation in Shenyang).
+- **Changsha Jingjia Microelectronics** (Intern, Oct–Dec 2025): semiconductor process and test-data analysis; hands-on training in packaging, testing and reliability.
+
+### 🏆 Honours
+
+- £11,000 University of Dundee Master's Scholarship (2025)
+- Provincial Third Prize, 1st Hunan College Student Energy Saving & Emission Reduction Competition (2023)
+- Third-Class Scholarship (2022–2023) and Special Scholarship, Central South University
 
 ### 🧰 Toolbox
 
@@ -53,7 +74,8 @@ of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift w
 ### 🎓 Education
 
 - **National University of Singapore**: MSc Mechanical Engineering (2026–)
-- **University of Dundee & Central South University** (Dundee International Institute): BEng, First Class Honours, GPA 86.33/100 (2022–2026)
+- **University of Dundee**: BEng (Hons) Mechanical Engineering, First Class Honours (2022–2026)
+- **Central South University** (Dundee International Institute): BEng Mechanical Design, Manufacturing & Automation, GPA 86.33/100 (2022–2026)
 
 ---
 
