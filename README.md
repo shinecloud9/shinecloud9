@@ -1,3 +1,5 @@
+![Xianyun Cheng: MSc Mechanical Engineering at NUS, LLM and AI agent evaluation, ASE 2026 paper](assets/banner.png)
+
 ## Hi, I'm Xianyun Cheng 👋
 
 **MSc Mechanical Engineering @ National University of Singapore** · Bridging engineering and AI
@@ -32,6 +34,8 @@ A format-aware metamorphic testing framework for LLM document workflows. Across 
 changing the file format (TXT / JSON / CSV / PDF) cut accuracy by up to 53.63% and flipped decisions in over 41%
 of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift without retraining.
 [Details & BibTeX →](https://shinecloud9.github.io/#publications)
+
+<p align="center"><img src="https://shinecloud9.github.io/assets/airflow_overview.png" alt="Overview of the format-aware metamorphic testing framework" width="760"></p>
 
 ### 🔬 Research
 
