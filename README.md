@@ -7,7 +7,7 @@
 I'm a mechanical engineer working where engineering meets AI, and I want to do that intersection well:
 bringing an engineer's habits of modelling, measuring and testing to AI systems, and bringing AI into real engineering problems.
 
-- 🔬 **AI research** with Prof. Yang Liu's team (NTU Singapore) and Prof. Tianlin Li's team (Beihang University) on LLM evaluation, robustness and reliability
+- 🔬 **AI research** with Prof. Yang Liu's team (NTU Singapore) and Dr. Tianlin Li's team (Beihang University) on LLM evaluation, robustness and reliability
 - 📄 **Co-author of an ASE 2026 paper** on the format robustness of LLM document workflows
 - ⚙️ **Engineering foundation**: First Class Honours BEng, semiconductor device fabrication and test-data analysis, mechanical and embedded design
 
@@ -24,7 +24,7 @@ bringing an engineer's habits of modelling, measuring and testing to AI systems,
 - **Aug–Sep 2026**: Built IntentCompass, a conversational shopping agent, at TikTok TechJam 2026.
 - **Jun 2026**: Graduated with a First Class Honours BEng (University of Dundee) and a BEng from Central South University.
 - **Jan–Mar 2026**: Interned at the Artificial Intelligence Institute of CAICT (China Academy of Information and Communications Technology).
-- **Oct 2025**: Started AI research with Prof. Yang Liu's team at NTU and Prof. Tianlin Li's team at Beihang University.
+- **Oct 2025**: Started AI research with Prof. Yang Liu's team at NTU and Dr. Tianlin Li's team at Beihang University.
 
 ### 📄 Publication
 
@@ -41,7 +41,7 @@ of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift w
 
 ### 🔬 Research
 
-**LLM evaluation & robustness** · NTU (Prof. Yang Liu) × Beihang University (Prof. Tianlin Li) · 2025–now
+**LLM evaluation & robustness** · NTU (Prof. Yang Liu) × Beihang University (Dr. Tianlin Li) · 2025–now
 
 - Built an automated pipeline for input routing, normalisation and model execution across multiple document formats
 - Formalised metamorphic relations across 5 semantically equivalent formats and 4 LLM families
