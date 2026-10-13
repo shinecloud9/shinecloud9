@@ -2,12 +2,14 @@
 
 ## Hi, I'm Xianyun Cheng 👋
 
-**MSc Mechanical Engineering @ National University of Singapore** · Bridging engineering and AI
+**MSc Mechanical Engineering @ National University of Singapore**
 
-I study how reliable AI systems really are. My research tests whether large language models and AI agents
-behave consistently when the input changes in ways that *shouldn't* matter, such as a different document format
-or a different reviewer persona. Before AI, I trained as a mechanical engineer (First Class Honours), and I still
-enjoy work that moves between hardware, data and software.
+I'm a mechanical engineer working where engineering meets AI, and I want to do that intersection well:
+bringing an engineer's habits of modelling, measuring and testing to AI systems, and bringing AI into real engineering problems.
+
+- 🔬 **AI research** with Prof. Yang Liu's team (NTU Singapore) and Prof. Tianlin Li's team (Beihang University) on LLM evaluation, robustness and reliability
+- 📄 **Co-author of an ASE 2026 paper** on the format robustness of LLM document workflows
+- ⚙️ **Engineering foundation**: First Class Honours BEng, semiconductor device fabrication and test-data analysis, mechanical and embedded design
 
 [![Homepage](https://img.shields.io/badge/Homepage-shinecloud9.github.io-1e3a5f?style=flat-square)](https://shinecloud9.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xianyuninnus-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xianyuninnus)
@@ -20,9 +22,9 @@ enjoy work that moves between hardware, data and software.
 - **Oct 2026**: Our ASE 2026 paper on format robustness of LLM document workflows is presented in Munich.
 - **Sep 2026**: Started my MSc in Mechanical Engineering at NUS.
 - **Aug–Sep 2026**: Built IntentCompass, a conversational shopping agent, at TikTok TechJam 2026.
-- **Jun 2026**: Graduated with a First Class Honours BEng (University of Dundee & Central South University).
-- **Apr 2026**: Started research on AI agents and LLM-based game evaluation with Prof. Yang Liu's team at NTU.
+- **Jun 2026**: Graduated with a First Class Honours BEng (University of Dundee) and a BEng from Central South University.
 - **Jan–Mar 2026**: Interned at the Artificial Intelligence Institute of CAICT (China Academy of Information and Communications Technology).
+- **Oct 2025**: Started AI research with Prof. Yang Liu's team at NTU and Prof. Tianlin Li's team at Beihang University.
 
 ### 📄 Publication
 
@@ -39,10 +41,11 @@ of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift w
 
 ### 🔬 Research
 
-| Project | What I do |
-|---|---|
-| **LLM robustness to document formats**<br><sub>NTU (Prof. Yang Liu) × Beihang (Prof. Tianlin Li) · 2025–now</sub> | Automated pipeline for input routing, normalisation and model execution · metamorphic relations across 5 formats and 4 LLM families · Jensen–Shannon divergence to measure evidence shift |
-| **AI agents & LLM-based game evaluation**<br><sub>NTU (Prof. Yang Liu) · 2026–now</sub> | Modular evaluation framework for open-source game-playing agents (screenshots, actions, traces) · persona-conditioned reviewer agents checked against experienced human players across 9 game genres |
+**LLM evaluation & robustness** · NTU (Prof. Yang Liu) × Beihang University (Prof. Tianlin Li) · 2025–now
+
+- Built an automated pipeline for input routing, normalisation and model execution across multiple document formats
+- Formalised metamorphic relations across 5 semantically equivalent formats and 4 LLM families
+- Used Jensen–Shannon divergence to measure how format changes shift the evidence a model relies on, and derived practical model–format selection guidelines
 
 ### 🛠 Selected projects
 
@@ -50,7 +53,6 @@ of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift w
 - **Ni/n-ZnO/Ni UV photodetector**: fabricated by RF sputtering, UV lithography and lift-off; traced a 440 nm cutoff drift to process defects.
 - **Intelligent firefighting vehicle**: SolidWorks + ANSYS design, custom 6-module PCB, Mbed control firmware.
 - **Lightweight virtual try-on**: MoveNet + MobileNetV2/FPN with a slimmed CP-VTON+, running GPU-free via OpenVINO.
-- **Momentum in tennis (MCM 2024, Problem C)**: random-forest feature ranking and a two-layer LSTM to predict momentum shifts in Wimbledon matches.
 
 ### 💼 Industry experience
 
@@ -59,7 +61,7 @@ of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift w
 
 ### 🏆 Honours
 
-- £11,000 University of Dundee Master's Scholarship (2025)
+- First Class Honours, BEng (Hons) Mechanical Engineering, University of Dundee (2026)
 - Provincial Third Prize, 1st Hunan College Student Energy Saving & Emission Reduction Competition (2023)
 - Third-Class Scholarship (2022–2023) and Special Scholarship, Central South University
 
@@ -83,4 +85,4 @@ of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift w
 
 ---
 
-<sub>📫 Open to internships and full-time roles in Singapore: AI evaluation & data, product / business analysis, semiconductor and engineering.</sub>
+<sub>📫 Open to internships and full-time roles: AI & data, product / business analysis, semiconductor and engineering.</sub>
