@@ -62,7 +62,6 @@ of cases. Lightweight test-time safeguards recovered up to 44.21% of the drift w
 ### 🏆 Honours
 
 - First Class Honours, BEng (Hons) Mechanical Engineering, University of Dundee (2026)
-- Provincial Third Prize, 1st Hunan College Student Energy Saving & Emission Reduction Competition (2023)
 - Third-Class Scholarship (2022–2023) and Special Scholarship, Central South University
 
 ### 🧰 Toolbox
